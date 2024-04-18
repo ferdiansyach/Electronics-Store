@@ -1,0 +1,30 @@
+Projek: Website Toko Online Bukawarung
+
+Frontend / Tampilan		:HTML, CSS
+Backend / Bahasa Pemograman	:PHP
+Database			:MySQL
+Web Server			:8.2
+Text Editor			:Visual Code
+
+User / Pengguna
+1. Calon Pembeli
+2. Penjual / Admin
+
+
+------Catatan----
+1. Semua file Extrak ke htdoc supaya bisa terbaca di localhost!!
+2. Cara mengakses ke halaman admin ketik http://localhost/(namafile htdocs)/(Namafilenya)/login.php
+	ID	: admin
+	Password: admin
+3. Database: File data base upload ke phpMyAdmin dulu!!!
+
+Halaman Akses
+
+1. Admin			: Login
+				  Dasboard
+				  Profil (update)
+				  Data Kategori (CRUD)
+				  Data Produk (CRUD)
+
+2. Calon Pembeli		: Beranda
+				  Produk
